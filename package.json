@@ -1,0 +1,21 @@
+{
+  "name": "playwright_test-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBakiCaki/Playwright_Test-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBakiCaki/Playwright_Test-Projects/issues"
+  },
+  "homepage": "https://github.com/MBakiCaki/Playwright_Test-Projects#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
